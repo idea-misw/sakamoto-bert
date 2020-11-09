@@ -2,3 +2,7 @@ SST-2/train.tsv
 SST-2/dev.tsv
 
 tsv/*.tsv
+
+model/*.bin
+model/*.json
+model/*.txt
